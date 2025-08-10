@@ -1,9 +1,7 @@
-### 👋 About Me / ### 🛠️ Tech Stack <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+### About Me / Tech Stack 
 <p>
-  
-  <br/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 - 안녕하세요, 알고리즘과 웹 기술을 탐구하는 개발자 안계홍입니다.
@@ -11,22 +9,9 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh820&layout=compact&theme=default" />
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=default" />
+ <img src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=default" />
 </p>
 
 ---
