@@ -9,17 +9,14 @@
 
 ---
 
-### 📈 GitHub Stats
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=default" />
-</p>
-<p>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh820&layout=compact&theme=default" />
+  
 </p>
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 - **Email:** aka820@naver.com
 - **Notion:** 미정
