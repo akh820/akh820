@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 📈 My GitHub Stats & Baekjoon Arena
+### 📈 My GitHub Stats
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=radical" />
@@ -23,11 +23,17 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh820&layout=compact&theme=radical" />
   </a>
 </p>
+### 🏆 Coding Test Arena
 <p align="left">
-  <a href="https://solved.ac/akh820">
+  <a href="https://solved.ac/akh820" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=akh820" />
   </a>
+  <a href="https://programmers.co.kr/profile/your_programmers_id" target="_blank">
+    <img src="https://mazandi.herokuapp.com/api?handle=your_programmers_id&theme=warm" />
+  </a>
 </p>
+
+
 
 ### 📫 Connect with me
 - 📧 Email: your-email@example.com
