@@ -4,20 +4,33 @@
 
 ---
 
+<table>
+  <tr>
+    <td valign="top">
+      
 ### 🛠️ Tech Stack
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
+
+</td>
+    <td valign="top">
+
+### 📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh820&layout=compact&theme=default&hide_border=true" />
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh820&layout=compact&theme=default&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=default&hide_border=true" />
 
 ---
 
