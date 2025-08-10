@@ -4,9 +4,9 @@
 
 ---
 
-<table>
+<table border="0">
   <tr>
-    <td valign="top">
+    <td width="50%" align="center">
       
 ### 🛠️ Tech Stack
 <p>
@@ -18,10 +18,10 @@
 </p>
 
 </td>
-    <td valign="top">
+    <td width="50%" align="center">
 
 ### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh820&layout=compact&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh820&layout=compact&theme=default" />
 
 </td>
   </tr>
@@ -30,7 +30,9 @@
 ---
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=default&hide_border=true" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=default" />
+</p>
 
 ---
 
