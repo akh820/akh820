@@ -29,7 +29,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=akh820" />
   </a>
   <a href="https://programmers.co.kr/profile/your_programmers_id" target="_blank">
-    <img src="https://mazandi.herokuapp.com/api?handle=your_programmers_id&theme=warm" />
+    <img src="https://mazandi.herokuapp.com/api?handle=aka820@naver.com&theme=warm" />
   </a>
 </p>
 
