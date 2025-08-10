@@ -6,21 +6,21 @@
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-E0E0E0?style=flat-square&logo=openjdk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-E0E0E0?style=flat-square&logo=typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-E0E0E0?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-E0E0E0?style=flat-square&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E0E0E0?style=flat-square&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-E0E0E0?style=flat-square&logo=css3&logoColor=black"/>
 </p>
 
 ### 📈 My GitHub Stats & Baekjoon Arena
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=default&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh820&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh820&layout=compact&theme=default&hide_border=true" />
   </a>
 </p>
 <p align="left">
