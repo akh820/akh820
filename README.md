@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 - 안녕하세요, 알고리즘과 웹 기술을 탐구하는 개발자 안계홍입니다.<br>
----
+
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=akh820&show_icons=true&theme=default" />
